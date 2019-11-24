@@ -1,6 +1,6 @@
 # oscillating-sort-string
 
-This program takes a string as input and then sorts it in an oscillating manner. Below are the steps:
+This program takes a string as input and then sorts it in an oscillating manner.
 
   - Input: abacbb
   - Output: abcbab
